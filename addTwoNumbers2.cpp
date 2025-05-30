@@ -31,6 +31,7 @@ public:
         temp->next=node;
         temp=temp->next;
        }
+        //
        return d->next;
     }
 };
